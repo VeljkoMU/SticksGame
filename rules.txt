@@ -1,0 +1,14 @@
+Game logic developed and implemented by Velcro Mitotic Uskovic
+The rules and basic concepts of the game by Stevan Bogdanovic
+
+The game consists of five rows with a certain number of sticks in each row.
+The first row have one t\stick, the second row has two and so on.
+The game is played by two players
+the players take turns while playing
+During a player's turn, he chooses one of the five rows and chooses how many sticks to remove from this row.
+The objective of the game is to force your opponent to pick up the last stick left on the board.
+
+Which means that the player who picks up the second-to-last stick from the board is the winner.
+Players cannot skip turns and cannot pick non-existant rows.
+
+If you like this thing I've made consider endorsing me on LinkedIn. :)
